@@ -9,4 +9,4 @@ This PoC is based on [this article](https://blog.vonahi.io/srclient-dll-hijackin
 
 ## Screenshot
 
-[](images/privesc.png)
+![Privesc](images/privesc.png)
